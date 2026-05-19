@@ -1,0 +1,28 @@
+# Python 缓存文件
+__pycache__/
+*.pyc
+*.pyo
+
+# 日志文件
+*.log
+news_crawler.log
+
+# 本地配置文件和敏感数据（你的真实文件）
+config.json
+token_usage.json
+sent_titles.json
+rss_sources.json
+.env
+
+# 虚拟环境 (如果你使用了)
+venv/
+env/
+.venv/
+
+# IDE 配置文件
+.vscode/
+.idea/
+
+# macOS/Windows 系统文件
+.DS_Store
+Thumbs.db
