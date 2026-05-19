@@ -12,6 +12,7 @@ config.json
 token_usage.json
 sent_titles.json
 rss_sources.json
+keyword_rotation.json
 .env
 
 # 虚拟环境 (如果你使用了)
